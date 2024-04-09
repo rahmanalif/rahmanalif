@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmudur Rahman Alif</h1>
-<h3 align="center">A passionate developer from Bangladesh</h3>
+<h3 align="center">Passionate game developer with a penchant for coding, fueled by self-driven research and relentless dedication to learning.</h3>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 - 🔭 I’m currently working on **2D Platformer game on Unity**
