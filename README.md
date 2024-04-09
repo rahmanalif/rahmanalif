@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahmudur Rahman Alif</h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 - 🔭 I’m currently working on **2D Platformer game on Unity**
 
