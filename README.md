@@ -1,22 +1,6 @@
 # Hi there, I'm Mahmudur Rahman 👋
 
-Welcome to my GitHub! I'm a passionate **game developer** and **software developer** with a flair for creating addictive, visually appealing games and functional applications. Whether it’s designing pixel art adventures, building immersive Unity games, or crafting efficient code solutions, I love bringing creative ideas to life through technology.
-
----
-
-### 💼 What I Do
-- **Game Development**: Specializing in both 2D and 3D game design using Unity and C#. I enjoy developing addictive and fast-paced games with features like procedural generation, progressive difficulty, and smooth player mechanics.
-- **Software Development**: Skilled in **C#** and **Flutter**. Recently, I have been exploring AI and machine learning for potential integrations in future projects.
-- **Flutter Applications**: From e-commerce platforms to utility-based applications, I focus on creating user-centric mobile apps.
-
----
-
-### 📈 Key Skills
-- **Unity** (2D & 3D Game Design, Procedural Generation, Pathfinding)
-- **C#** (for game logic and backend systems)
-- **Flutter** (for Android app development)
-- **Git** (version control and collaboration)
-- **UI/UX** (designing intuitive interfaces and experiences)
+Welcome to my GitHub! I'm a passionate **indie game developer** and **software developer** with a flair for creating addictive, visually appealing games and functional applications. Whether it’s designing pixel art adventures, building immersive Unity games, or crafting efficient code solutions, I love bringing creative ideas to life through technology.
 
 ---
 
@@ -46,6 +30,22 @@ Welcome to my GitHub! I'm a passionate **game developer** and **software develop
 > - **Highlights**: Clean, professional UI/UX, easy navigation, and smooth performance.
 > - **Current Status**:
 > - ![Gameplay](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJxNGlzaXp1eGozbjM3d3RuejlnNTdwOHZ6bjUzdTY0bGs4aWxjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zZCOCA58LQZoGY5B2s/giphy.gif)
+
+---
+
+### 💼 What I Do
+- **Game Development**: Specializing in both 2D and 3D game design using Unity and C#. I enjoy developing addictive and fast-paced games with features like procedural generation, progressive difficulty, and smooth player mechanics.
+- **Software Development**: Skilled in **C#** and **Flutter**. Recently, I have been exploring AI and machine learning for potential integrations in future projects.
+- **Flutter Applications**: From e-commerce platforms to utility-based applications, I focus on creating user-centric mobile apps.
+
+---
+
+### 📈 Key Skills
+- **Unity** (2D & 3D Game Design, Procedural Generation, Pathfinding)
+- **C#** (for game logic and backend systems)
+- **Flutter** (for Android app development)
+- **Git** (version control and collaboration)
+- **UI/UX** (designing intuitive interfaces and experiences)
 
 ---
 
