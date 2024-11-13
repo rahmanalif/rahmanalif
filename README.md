@@ -44,7 +44,8 @@ Welcome to my GitHub! I'm a passionate **game developer** and **software develop
 #### 📱 Flutter E-commerce App
 > **Description**: An Android app built with Flutter, specifically designed to showcase and sell Casio watches.
 > - **Highlights**: Clean, professional UI/UX, easy navigation, and smooth performance.
-> - **Current Status**: 
+> - **Current Status**:
+> - ![Gameplay](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJxNGlzaXp1eGozbjM3d3RuejlnNTdwOHZ6bjUzdTY0bGs4aWxjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zZCOCA58LQZoGY5B2s/giphy.gif)
 
 ---
 
