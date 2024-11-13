@@ -20,6 +20,7 @@ Welcome to my GitHub! I'm a passionate **indie game developer** and **software d
 #### 🎯 2D Top-Down Shooter Game
 > **Description**: A fast-paced 2D top-down shooter where players engage in action-packed levels with multiple enemies and strategic obstacles.
 > - **Highlights**: Dynamic shooting mechanics, diverse enemy types, and a variety of weapons and upgrades.
+> -![Gameplay](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdwcTlrYjYzaXkzcWpnNGxzZm95NW0zNmYya2ppNXRjcmI2M2F1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bYqjavTvr18zj06JlJ/giphy.gif)
 
 #### 🏗️ Building Game
 > **Description**: A procedurally generated building game with interactive construction mechanics.
@@ -58,18 +59,6 @@ Welcome to my GitHub! I'm a passionate **indie game developer** and **software d
 - **Google Play Console** (game publishing & management)
 
 ---
-
-### 🌱 Current Interests
-- **Machine Learning** & AI: Exploring new ways to integrate intelligent behavior and adaptive difficulty in games.
-- **Multiplayer Mechanics**: Although new to multiplayer in Unity, I'm interested in learning and developing multiplayer games soon.
-- **Portfolio Website**: Building a portfolio to showcase my published games and projects.
-
----
-
-### 🎯 Goals for 2024
-- Launch a multiplayer game
-- Refine my AI and ML skills for advanced game features
-- Expand my portfolio and network in the gaming industry
 
 Feel free to check out my repositories, try out my projects, and connect with me!
 
