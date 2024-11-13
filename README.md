@@ -1,24 +1,83 @@
-<h1 align="center">Hi 👋, I'm Mahmudur Rahman Alif</h1>
-<h3 align="center">Passionate game developer with a penchant for coding, fueled by self-driven research and relentless dedication to learning.</h3>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+# Hi there, I'm [Your Name] 👋
 
-- 🔭 I’m currently working on **2D Platformer game on Unity**
+Welcome to my GitHub! I'm a passionate **game developer** and **software developer** with a flair for creating addictive, visually appealing games and functional applications. Whether it’s designing pixel art adventures, building immersive Unity games, or crafting efficient code solutions, I love bringing creative ideas to life through technology.
 
-- 🌱 I’m currently learning **Flutter and Unity**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/rahmanalif](https://github.com/rahmanalif)
+### 💼 What I Do
+- **Game Development**: Specializing in both 2D and 3D game design using Unity and C#. I enjoy developing addictive and fast-paced games with features like procedural generation, progressive difficulty, and smooth player mechanics.
+- **Software Development**: Skilled in **C#** and **Flutter**. Recently exploring AI and machine learning for potential integrations in future projects.
+- **Flutter Applications**: From e-commerce platforms to utility-based applications, I focus on creating user-centric mobile apps.
 
-- 📫 How to reach me **rahman.alif.007@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/m_rahmanalif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_rahmanalif" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mahmudur-rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmudur-rahman" height="30" width="40" /></a>
-<a href="https://fb.com/rahman.alif.11296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahman.alif.11296" height="30" width="40" /></a>
-</p>
+### 📈 Key Skills
+- **Unity** (2D & 3D Game Design, Procedural Generation, Pathfinding)
+- **C#** (for game logic and backend systems)
+- **Flutter** (for Android app development)
+- **Git** (version control and collaboration)
+- **UI/UX** (designing intuitive interfaces and experiences)
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
+### 🌟 Featured Projects
 
+#### 🎮 Bounce on Stack
+> **Description**: A thrilling platformer where players control a cube that jumps on platforms, aiming to achieve high scores and unlock new models.
+> - **Features**: Progressive difficulty, scoring & high-score system, shop with six player models, infinite platform spawning, and theme changes based on player model.
+> - **Available on**: [Google Play Store](https://play.google.com/store/apps/details?id=com.Alif.BounceOnStack&hl=en) | [GitHub Repository](https://github.com/rahmanalif/JumpsOn)
+> - ![Gameplay](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQwbHEweGhzbDk2b3lsbTBtbTduZjg3N2RwZjh1Zzk1cmRwNm5nYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BOGThHmOrOsWhOIKKq/giphy.gif)
 
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+#### 🧭 2D A* Pathfinding Player Movement Game
+> **Description**: A 2D pathfinding game where players navigate complex terrains and avoid obstacles to reach their destination.
+> - **Core Mechanics**: Efficient A* pathfinding algorithm, smooth player movement, and interactive environment with layered obstacles.
+> - ![Gameplay](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3VnaHo1dWY2N2tzZW50ZGhreml0a2xmbjc1ZTd4a2xsdzVlejdiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XdtY04uEbjy4d6ZBKq/giphy.gif)
+
+#### 🎯 2D Top-Down Shooter Game
+> **Description**: A fast-paced 2D top-down shooter where players engage in action-packed levels with multiple enemies and strategic obstacles.
+> - **Highlights**: Dynamic shooting mechanics, diverse enemy types, and a variety of weapons and upgrades.
+
+#### 🏗️ Building Game
+> **Description**: A procedurally generated building game with interactive construction mechanics.
+> - **Key Features**: Flexible building system, resource management, and intuitive structure creation controls.
+
+#### 📱 Flutter E-commerce App
+> **Description**: An Android app built with Flutter, specifically designed to showcase and sell Casio watches.
+> - **Highlights**: Clean, professional UI/UX, easy navigation, and smooth performance.
+> - **Current Status**: 
+
+---
+
+### 🛠️ Technologies & Tools
+- **Unity & C#**
+- **Flutter & Dart**
+- **Git/GitHub** (version control)
+- **VS Code**
+- **Adobe Photoshop** (for game art and UI elements)
+- **Google Play Console** (game publishing & management)
+
+---
+
+### 🌱 Current Interests
+- **Machine Learning** & AI: Exploring new ways to integrate intelligent behavior and adaptive difficulty in games.
+- **Multiplayer Mechanics**: Although new to multiplayer in Unity, I'm interested in learning and developing multiplayer games soon.
+- **Portfolio Website**: Building a portfolio to showcase my published games and projects.
+
+---
+
+### 🎯 Goals for 2024
+- Launch a multiplayer game
+- Refine my AI and ML skills for advanced game features
+- Expand my portfolio and network in the gaming industry
+
+Feel free to check out my repositories, try out my projects, and connect with me!
+
+--- 
+
+#### 📫 Let's Connect!
+- **[LinkedIn](#)**: https://www.linkedin.com/in/mahmudur-rahman-alif/
+- **[Twitter](#)**: https://x.com/m_rahmanalif
+
+---
+
+Thank you for visiting! 😊
