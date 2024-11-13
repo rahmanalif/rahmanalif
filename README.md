@@ -7,32 +7,70 @@ Welcome to my GitHub! I'm a passionate **indie game developer** and **software d
 ### 🌟 Featured Projects
 
 #### 🎮 Bounce on Stack
-> **Description**: A thrilling platformer where players control a cube that jumps on platforms, aiming to achieve high scores and unlock new models.
-> - **Features**: Progressive difficulty, scoring & high-score system, shop with six player models, infinite platform spawning, and theme changes based on player model.
-> - **Available on**: [Google Play Store](https://play.google.com/store/apps/details?id=com.Alif.BounceOnStack&hl=en) | [GitHub Repository](https://github.com/rahmanalif/JumpsOn)
-> - ![Gameplay](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHk4c3ZhMnR1ZnN3c2s3Zmw1d212OXM0bGFrMW93djM0MWJmamI2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q0TJ6GYcgl10lXeTEx/giphy.gif)
+<table>
+  <tr>
+    <td>
+      <b>Description</b>: A thrilling platformer where players control a cube that jumps on platforms, aiming to achieve high scores and unlock new models.<br>
+      <b>Features</b>: Progressive difficulty, scoring & high-score system, shop with six player models, infinite platform spawning, and theme changes based on player model.<br>
+      <b>Available on</b>: [Google Play Store](https://play.google.com/store/apps/details?id=com.Alif.BounceOnStack&hl=en) | [GitHub Repository](https://github.com/rahmanalif/JumpsOn)
+    </td>
+    <td>
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHk4c3ZhMnR1ZnN3c2s3Zmw1d212OXM0bGFrMW93djM0MWJmamI2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q0TJ6GYcgl10lXeTEx/giphy.gif" width="300" />
+    </td>
+  </tr>
+</table>
 
 #### 🧭 2D A* Pathfinding Player Movement Game
-> **Description**: A 2D pathfinding game where players navigate complex terrains and avoid obstacles to reach their destination.
-> - **Core Mechanics**: Efficient A* pathfinding algorithm, smooth player movement, and interactive environment with layered obstacles.
-> - ![Gameplay](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3VnaHo1dWY2N2tzZW50ZGhreml0a2xmbjc1ZTd4a2xsdzVlejdiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XdtY04uEbjy4d6ZBKq/giphy.gif)
+<table>
+  <tr>
+    <td>
+      <b>Description</b>: A 2D pathfinding game where players navigate complex terrains and avoid obstacles to reach their destination.<br>
+      <b>Core Mechanics</b>: Efficient A* pathfinding algorithm, smooth player movement, and interactive environment with layered obstacles.
+    </td>
+    <td>
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3VnaHo1dWY2N2tzZW50ZGhreml0a2xmbjc1ZTd4a2xsdzVlejdiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XdtY04uEbjy4d6ZBKq/giphy.gif" width="300" />
+    </td>
+  </tr>
+</table>
 
 #### 🎯 2D Top-Down Shooter Game
-> **Description**: A fast-paced 2D top-down shooter where players engage in action-packed levels with multiple enemies and strategic obstacles.
-> - **Highlights**: Dynamic shooting mechanics, diverse enemy types, and a variety of weapons and upgrades.
-
-![Gameplay](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVtcGt3cnE3ODVpNmc3cHR0cXJmMWR5cHRmZXdxOGZ4c24yc2hjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T2ZITZwmlfdOB1BHUf/giphy.gif)
-
+<table>
+  <tr>
+    <td>
+      <b>Description</b>: A fast-paced 2D top-down shooter where players engage in action-packed levels with multiple enemies and strategic obstacles.<br>
+      <b>Highlights</b>: Dynamic shooting mechanics, diverse enemy types, and a variety of weapons and upgrades.
+    </td>
+    <td>
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVtcGt3cnE3ODVpNmc3cHR0cXJmMWR5cHRmZXdxOGZ4c24yc2hjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T2ZITZwmlfdOB1BHUf/giphy.gif" width="300" />
+    </td>
+  </tr>
+</table>
 
 #### 🏗️ Building Game
-> **Description**: A procedurally generated building game with interactive construction mechanics.
-> - **Key Features**: Flexible building system, resource management, and intuitive structure creation controls.
+<table>
+  <tr>
+    <td>
+      <b>Description</b>: A procedurally generated building game with interactive construction mechanics.<br>
+      <b>Key Features</b>: Flexible building system, resource management, and intuitive structure creation controls.
+    </td>
+    <td>
+      <!-- Add GIF link here if available -->
+    </td>
+  </tr>
+</table>
 
 #### 📱 Flutter E-commerce App
-> **Description**: An Android app built with Flutter, specifically designed to showcase and sell Casio watches.
-> - **Highlights**: Clean, professional UI/UX, easy navigation, and smooth performance.
-> - **Current Status**:
-> - ![Gameplay](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJxNGlzaXp1eGozbjM3d3RuejlnNTdwOHZ6bjUzdTY0bGs4aWxjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zZCOCA58LQZoGY5B2s/giphy.gif)
+<table>
+  <tr>
+    <td>
+      <b>Description</b>: An Android app built with Flutter, specifically designed to showcase and sell Casio watches.<br>
+      <b>Highlights</b>: Clean, professional UI/UX, easy navigation, and smooth performance.
+    </td>
+    <td>
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJxNGlzaXp1eGozbjM3d3RuejlnNTdwOHZ6bjUzdTY0bGs4aWxjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zZCOCA58LQZoGY5B2s/giphy.gif" width="300" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -67,8 +105,8 @@ Feel free to check out my repositories, try out my projects, and connect with me
 --- 
 
 #### 📫 Let's Connect!
-- **[LinkedIn](#)**: https://www.linkedin.com/in/mahmudur-rahman-alif/
-- **[Twitter](#)**: https://x.com/m_rahmanalif
+- **[LinkedIn](https://www.linkedin.com/in/mahmudur-rahman-alif/)**
+- **[Twitter](https://x.com/m_rahmanalif)**
 
 ---
 
