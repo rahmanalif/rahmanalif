@@ -20,7 +20,9 @@ Welcome to my GitHub! I'm a passionate **indie game developer** and **software d
 #### 🎯 2D Top-Down Shooter Game
 > **Description**: A fast-paced 2D top-down shooter where players engage in action-packed levels with multiple enemies and strategic obstacles.
 > - **Highlights**: Dynamic shooting mechanics, diverse enemy types, and a variety of weapons and upgrades.
-> -![Gameplay](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdwcTlrYjYzaXkzcWpnNGxzZm95NW0zNmYya2ppNXRjcmI2M2F1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bYqjavTvr18zj06JlJ/giphy.gif)
+
+![Gameplay](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVtcGt3cnE3ODVpNmc3cHR0cXJmMWR5cHRmZXdxOGZ4c24yc2hjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T2ZITZwmlfdOB1BHUf/giphy.gif)
+
 
 #### 🏗️ Building Game
 > **Description**: A procedurally generated building game with interactive construction mechanics.
