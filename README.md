@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Mahmudur Rahman 👋
 
 Welcome to my GitHub! I'm a passionate **game developer** and **software developer** with a flair for creating addictive, visually appealing games and functional applications. Whether it’s designing pixel art adventures, building immersive Unity games, or crafting efficient code solutions, I love bringing creative ideas to life through technology.
 
@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate **game developer** and **software develop
 
 ### 💼 What I Do
 - **Game Development**: Specializing in both 2D and 3D game design using Unity and C#. I enjoy developing addictive and fast-paced games with features like procedural generation, progressive difficulty, and smooth player mechanics.
-- **Software Development**: Skilled in **C#** and **Flutter**. Recently exploring AI and machine learning for potential integrations in future projects.
+- **Software Development**: Skilled in **C#** and **Flutter**. Recently, I have been exploring AI and machine learning for potential integrations in future projects.
 - **Flutter Applications**: From e-commerce platforms to utility-based applications, I focus on creating user-centric mobile apps.
 
 ---
@@ -26,7 +26,7 @@ Welcome to my GitHub! I'm a passionate **game developer** and **software develop
 > **Description**: A thrilling platformer where players control a cube that jumps on platforms, aiming to achieve high scores and unlock new models.
 > - **Features**: Progressive difficulty, scoring & high-score system, shop with six player models, infinite platform spawning, and theme changes based on player model.
 > - **Available on**: [Google Play Store](https://play.google.com/store/apps/details?id=com.Alif.BounceOnStack&hl=en) | [GitHub Repository](https://github.com/rahmanalif/JumpsOn)
-> - ![Gameplay](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQwbHEweGhzbDk2b3lsbTBtbTduZjg3N2RwZjh1Zzk1cmRwNm5nYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BOGThHmOrOsWhOIKKq/giphy.gif)
+> - ![Gameplay](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHk4c3ZhMnR1ZnN3c2s3Zmw1d212OXM0bGFrMW93djM0MWJmamI2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q0TJ6GYcgl10lXeTEx/giphy.gif)
 
 #### 🧭 2D A* Pathfinding Player Movement Game
 > **Description**: A 2D pathfinding game where players navigate complex terrains and avoid obstacles to reach their destination.
