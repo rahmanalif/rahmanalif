@@ -46,19 +46,6 @@ Welcome to my GitHub! I'm a passionate **indie game developer** and **software d
   </tr>
 </table>
 
-#### 🏗️ Building Game
-<table>
-  <tr>
-    <td>
-      <b>Description</b>: A procedurally generated building game with interactive construction mechanics.<br>
-      <b>Key Features</b>: Flexible building system, resource management, and intuitive structure creation controls.
-    </td>
-    <td>
-      <!-- Add GIF link here if available -->
-    </td>
-  </tr>
-</table>
-
 #### 📱 Flutter E-commerce App
 <table>
   <tr>
