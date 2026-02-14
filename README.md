@@ -7,31 +7,24 @@ Welcome to my GitHub! I'm a passionate **indie game developer** and **software d
 ### 🌟 Featured Projects
 
 #### 🎮 Bounce on Stack
-<table>
-  <tr>
-    <td>
-      <b>Description</b>: A thrilling platformer where players control a cube that jumps on platforms, aiming to achieve high scores and unlock new models.<br>
-      <b>Features</b>: Progressive difficulty, scoring & high-score system, shop with six player models, infinite platform spawning, and theme changes based on player model.<br>
-      <b>Available on</b>: [Google Play Store](https://play.google.com/store/apps/details?id=com.Alif.BounceOnStack&hl=en) | [GitHub Repository](https://github.com/rahmanalif/JumpsOn)
-    </td>
-    <td>
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHk4c3ZhMnR1ZnN3c2s3Zmw1d212OXM0bGFrMW93djM0MWJmamI2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q0TJ6GYcgl10lXeTEx/giphy.gif" width="300" />
-    </td>
-  </tr>
+<table> 
+  <tr> 
+    <td> 
+      <b>
+        Description
+      </b>: A fast-paced platformer where players control a bouncing cube, jumping across dynamically generated platforms to survive longer and achieve high scores.<br><br> <b>Highlights</b>: Progressive difficulty scaling, real-time scoring & high-score         system,           infinite platform spawning, unlockable player models with an in-game shop, and dynamic theme changes based on selected character.<br><br> 
+      <b>
+        Available On
+      </b>: <a href="https://play.google.com/store/apps/details?id=com.Alif.BounceOnStack&hl=en">Google Play Store</a> | <a href="https://github.com/rahmanalif/JumpsOn">GitHub Repository</a> 
+    </td> 
+    <td> 
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHk4c3ZhMnR1ZnN3c2s3Zmw1d212OXM0bGFrMW93djM0MWJmamI2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q0TJ6GYcgl10lXeTEx/giphy.gif" width="350" /> 
+    </td> 
+  </tr> 
 </table>
 
 #### 🧭 2D A* Pathfinding Player Movement Game
-<table>
-  <tr>
-    <td>
-      <b>Description</b>: A 2D pathfinding game where players navigate complex terrains and avoid obstacles to reach their destination.<br>
-      <b>Core Mechanics</b>: Efficient A* pathfinding algorithm, smooth player movement, and interactive environment with layered obstacles.
-    </td>
-    <td>
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3VnaHo1dWY2N2tzZW50ZGhreml0a2xmbjc1ZTd4a2xsdzVlejdiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XdtY04uEbjy4d6ZBKq/giphy.gif" width="300" />
-    </td>
-  </tr>
-</table>
+<table> <tr> <td> <b>Description</b>: A 2D navigation-based game demonstrating intelligent pathfinding mechanics, where the player moves across complex terrains while dynamically avoiding obstacles.<br><br> <b>Highlights</b>: Implementation of the A* pathfinding algorithm, optimized grid-based navigation, smooth player interpolation movement, and layered obstacle interaction system.<br><br> <b>Focus</b>: Algorithm efficiency, movement precision, and clean system logic implementation. </td> <td> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3VnaHo1dWY2N2tzZW50ZGhreml0a2xmbjc1ZTd4a2xsdzVlejdiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XdtY04uEbjy4d6ZBKq/giphy.gif" width="300" /> </td> </tr> </table>
 
 #### 🎯 2D Top-Down Shooter Game
 <table>
