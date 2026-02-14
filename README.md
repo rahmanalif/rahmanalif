@@ -1,4 +1,4 @@
-# Hi there, I'm Mahmudur Rahman 👋
+# Hi there, I'm Mahmudur Rahman 
 
 Welcome to my GitHub! I'm a **full-stack software developer** specializing in building scalable web applications with modern JavaScript technologies. I create robust backend APIs and intuitive frontend experiences using React, Node.js, Express, and MongoDB. In my spare time, I explore game development with Unity as a creative outlet.
 
@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a **full-stack software developer** specializing in bu
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -41,9 +41,9 @@ Welcome to my GitHub! I'm a **full-stack software developer** specializing in bu
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
-### 🎮 Game Development
+###  Game Development
 
 #### Bounce on Stack (JumpsOn)
 <table> 
@@ -126,7 +126,7 @@ Welcome to my GitHub! I'm a **full-stack software developer** specializing in bu
 
 ---
 
-### 💻 Full-Stack Web Applications
+###  Full-Stack Web Applications
 
 #### Naibrly - Home Services Marketplace
 <table>
@@ -235,7 +235,7 @@ Welcome to my GitHub! I'm a **full-stack software developer** specializing in bu
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahmanalif&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -247,25 +247,25 @@ Welcome to my GitHub! I'm a **full-stack software developer** specializing in bu
 
 ---
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
-- 💼 **[LinkedIn](https://www.linkedin.com/in/mahmudur-rahman-alif/)**
-- 🐦 **[Twitter/X](https://x.com/m_rahmanalif)**
-- 📧 **Email**: [Your Email Here]
-- 💬 **Open to**: Freelance projects, full-time opportunities, and collaborations
-
----
-
-## 🎯 What I'm Working On
-
-- 🎮 Developing mobile games with Unity focusing on engaging gameplay mechanics
-- 🌐 Building scalable full-stack web applications with modern JavaScript frameworks
-- 📚 Learning advanced game AI patterns and multiplayer systems
-- 🔧 Exploring new web technologies and optimization techniques
+-  **[LinkedIn](https://www.linkedin.com/in/mahmudur-rahman-alif/)**
+-  **[Twitter/X](https://x.com/m_rahmanalif)**
+-  **Email**: [Your Email Here]
+-  **Open to**: Freelance projects, full-time opportunities, and collaborations
 
 ---
 
-⭐️ **Fun Fact**: I'm equally comfortable debugging Unity physics as I am optimizing MongoDB queries!
+##  What I'm Working On
+
+-  Developing mobile games with Unity focusing on engaging gameplay mechanics
+-  Building scalable full-stack web applications with modern JavaScript frameworks
+-  Learning advanced game AI patterns and multiplayer systems
+-  Exploring new web technologies and optimization techniques
+
+---
+
+ **Fun Fact**: I'm equally comfortable debugging Unity physics as I am optimizing MongoDB queries!
 
 ---
 
