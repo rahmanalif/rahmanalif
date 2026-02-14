@@ -1,30 +1,53 @@
 # Hi there, I'm Mahmudur Rahman 👋
 
-Welcome to my GitHub! I'm a passionate **indie game developer** and **software developer** with a flair for creating addictive, visually appealing games and functional applications. Whether it’s designing pixel art adventures, building immersive Unity games, or crafting efficient code solutions, I love bringing creative ideas to life through technology.
+Welcome to my GitHub! I'm a passionate **indie game developer** and **full-stack software developer** specializing in creating engaging games and scalable web applications. With expertise in Unity game development and modern web technologies, I bring creative ideas to life through clean code and thoughtful design.
+
+🎯 **Currently**: Open to freelance opportunities, full-time positions, and always learning new technologies  
+💼 **Looking for**: Game development roles, full-stack positions, and exciting collaborations  
+📧 **Contact**: [Your Email] | Available for remote and contract work
 
 ---
 
-### 🌟 Featured Projects
+## 🛠️ Tech Stack & Tools
 
-#### 🎮 Bounce on Stack
+**Game Development**  
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+**Web Development**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
+
+### 🎮 Game Development
+
+#### Bounce on Stack (JumpsOn)
 <table> 
   <tr> 
     <td> 
-      <b>
-        Description
-      </b>: 
-      A fast-paced platformer where players control a bouncing cube, jumping across dynamically generated platforms to survive longer and achieve high scores.<br>
-      <br> 
-      <b>
-        Highlights
-      </b>: 
-      Progressive difficulty scaling, real-time scoring & high-score         system,           infinite platform spawning, unlockable player models with an in-game shop, and dynamic theme changes based on selected character.<br><br> 
-      <b>
-        Available On
-      </b>: 
-      <a href="https://play.google.com/store/apps/details?id=com.Alif.BounceOnStack&hl=en">Google Play Store</a> | <a href="https://github.com/rahmanalif/JumpsOn">
-        GitHub Repository
-      </a> 
+      <b>Description</b>: 
+      A fast-paced 3D platformer where players control a bouncing cube, jumping across dynamically generated platforms to survive longer and achieve high scores. Built with Unity 2021.3.27f1.<br><br> 
+      <b>Tech Stack</b>: Unity, C#, ShaderLab, HLSL<br><br>
+      <b>Key Features</b>: 
+      <ul>
+        <li>Progressive difficulty scaling system</li>
+        <li>Real-time scoring with persistent high-score tracking</li>
+        <li>Infinite procedural platform generation</li>
+        <li>Unlockable player models with in-game shop system</li>
+        <li>Dynamic theme changes based on character selection</li>
+        <li>Custom shaders for visual effects</li>
+      </ul>
+      <b>Links</b>: 
+      <a href="https://play.google.com/store/apps/details?id=com.Alif.BounceOnStack&hl=en">Google Play Store</a> | 
+      <a href="https://github.com/rahmanalif/JumpsOn">GitHub Repository</a> 
     </td> 
     <td> 
       <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHk4c3ZhMnR1ZnN3c2s3Zmw1d212OXM0bGFrMW93djM0MWJmamI2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q0TJ6GYcgl10lXeTEx/giphy.gif" width="300" /> 
@@ -32,25 +55,25 @@ Welcome to my GitHub! I'm a passionate **indie game developer** and **software d
   </tr> 
 </table>
 
-#### 🧭 2D A* Pathfinding Player Movement Game
+#### 2D A* Pathfinding Navigation Game
 <table> 
   <tr> 
     <td> 
-      <b>
-        Description
-      </b>: A 2D navigation-based game demonstrating intelligent pathfinding mechanics, where the player moves across complex terrains while dynamically avoiding obstacles.<br><br> <b>Highlights</b>: Implementation of the A* pathfinding algorithm, optimized grid-based navigation, smooth player interpolation movement, and layered obstacle interaction system.
-      <br>
-      <br> 
-      <b>
-        Focus
-      </b>: Algorithm efficiency, movement precision, and clean system logic implementation. 
-      <br></br>
-    <b>
-        Available On
-      </b>: 
-      <a href="https://play.google.com/store/apps/details?id=com.Alif.BounceOnStack&hl=en">Google Play Store</a> | <a href="https://github.com/rahmanalif/JumpsOn">
-        GitHub Repository
-      </a>
+      <b>Description</b>: A 2D navigation game inspired by mobile games like Stranger Things, featuring intelligent AI pathfinding where players tap to move and the character automatically navigates around obstacles using the A* algorithm.<br><br> 
+      <b>Tech Stack</b>: Unity, C#, A* Algorithm<br><br>
+      <b>Key Features</b>: 
+      <ul>
+        <li>Custom A* pathfinding algorithm implementation</li>
+        <li>Grid-based navigation with obstacle detection</li>
+        <li>Smooth character interpolation and movement</li>
+        <li>Touch-based input system for mobile</li>
+        <li>Real-time path recalculation on obstacle changes</li>
+        <li>Optimized performance for mobile devices</li>
+      </ul>
+      <b>Focus</b>: Algorithm efficiency, mobile optimization, and intelligent AI navigation
+      <br><br>
+      <b>Links</b>: 
+      <a href="https://github.com/rahmanalif/2d-pathfinding-movement-Game">GitHub Repository</a>
     </td> 
     <td> 
       <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3VnaHo1dWY2N2tzZW50ZGhreml0a2xmbjc1ZTd4a2xsdzVlejdiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XdtY04uEbjy4d6ZBKq/giphy.gif" width="300" /> 
@@ -58,31 +81,26 @@ Welcome to my GitHub! I'm a passionate **indie game developer** and **software d
   </tr> 
 </table>
 
-#### 🎯 2D Top-Down Shooter Game
+#### 2D Top-Down Shooter for Android
 <table> 
     <tr> 
         <td> 
-            <b>
-                Description
-            </b>: 
-            A fast-paced 2D top-down shooter built around responsive controls and action-heavy combat scenarios.
-            <br><br> 
-            <b>
-                Highlights
-            </b>: 
-            Dynamic shooting mechanics, multiple enemy behaviors, weapon variety system, upgrade mechanics, and structured level design with strategic obstacle placement.
-            <br><br> 
-            <b>
-                Focus
-            </b>: 
-            Combat responsiveness, gameplay balance, and modular enemy logic design. 
-            <br></br>
-        <b>
-            Available On
-        </b>: 
-        <a href="https://play.google.com/store/apps/details?id=com.Alif.BounceOnStack&hl=en">Google Play Store</a> | <a href="https://github.com/rahmanalif/JumpsOn">
-            GitHub Repository
-        </a>
+            <b>Description</b>: 
+            A mobile-optimized 2D top-down shooter featuring dual joystick controls for movement and shooting, designed specifically for Android devices.<br><br> 
+            <b>Tech Stack</b>: Unity, C#, ShaderLab, HLSL<br><br>
+            <b>Key Features</b>: 
+            <ul>
+              <li>Dual virtual joystick control system (movement & aiming)</li>
+              <li>Touch-optimized mobile controls</li>
+              <li>Dynamic shooting mechanics with projectile physics</li>
+              <li>Enemy AI behavior patterns</li>
+              <li>Android build optimization</li>
+              <li>Custom shaders for visual effects</li>
+            </ul>
+            <b>Focus</b>: Mobile game design, responsive touch controls, and performance optimization for Android
+            <br><br>
+            <b>Links</b>: 
+            <a href="https://github.com/rahmanalif/TopDownActionAndroidGame">GitHub Repository</a>
         </td> 
         <td> 
             <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVtcGt3cnE3ODVpNmc3cHR0cXJmMWR5cHRmZXdxOGZ4c24yc2hjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T2ZITZwmlfdOB1BHUf/giphy.gif" width="300" height="400" /> 
@@ -90,22 +108,35 @@ Welcome to my GitHub! I'm a passionate **indie game developer** and **software d
     </tr> 
 </table>
 
-#### 📱 Naibrly
+---
+
+### 💻 Full-Stack Web Applications
+
+#### Naibrly - Home Services Marketplace
 <table>
   <tr>
     <td>
       <b>Description</b>:
-      A modern community platform designed to digitally connect neighbors through posts,
-      discussions, and local service sharing in a structured ecosystem.
-      <br /><br />
-      <b>Highlights</b>:
-      Secure authentication system, modular component structure, scalable backend logic,
-      clean project architecture, and smooth user experience.
-      <br /><br />
+      A comprehensive home services platform connecting homeowners with local service professionals. Features 24/7 availability, flexible appointments, and bundle offers where neighbors can collaborate to reduce costs.
+      <br><br>
+      <b>Tech Stack</b>: Next.js, React, Node.js, Express, MongoDB, Redux, TypeScript
+      <br><br>
+      <b>Key Features</b>:
+      <ul>
+        <li>Full-stack Next.js application with SSR</li>
+        <li>JWT-based authentication and authorization</li>
+        <li>Service provider registration and management</li>
+        <li>Real-time chat implementation for user-provider communication</li>
+        <li>Neighborhood bundle offer system</li>
+        <li>Service search and filtering</li>
+        <li>Booking and appointment scheduling</li>
+        <li>Responsive design optimized for all devices</li>
+        <li>Redux state management</li>
+      </ul>
       <b>Links</b>:
       <a href="https://github.com/rahmanalif/naibrly2.0">GitHub</a>
       |
-      <a href="https://naibrly-front-main.vercel.app/">Vercel</a>
+      <a href="https://naibrly-front-main.vercel.app/">Live Demo</a>
     </td>
     <td>
       <img
@@ -116,22 +147,32 @@ Welcome to my GitHub! I'm a passionate **indie game developer** and **software d
   </tr>
 </table>
 
-#### Auydume Backend
+#### Lavellh - Service Provider Backend Platform
 <table>
   <tr>
     <td>
       <b>Description</b>:
-      A full-stack application focused on structured workflow management and organized
-      data handling, built with scalability and maintainability in mind.
-      <br /><br />
-      <b>Highlights</b>:
-      RESTful API design, validation layers, clean separation of concerns, maintainable
-      backend structure, and production-ready architecture.
-      <br /><br />
+      A robust backend API for a service provider marketplace featuring geolocation-based provider discovery, category management, and admin tools. Built with production-grade architecture and deployed on Render.
+      <br><br>
+      <b>Tech Stack</b>: Node.js, Express, MongoDB, JavaScript
+      <br><br>
+      <b>Key Features</b>:
+      <ul>
+        <li>RESTful API with comprehensive endpoints</li>
+        <li>Real Time Massage System with Socket.IO</li>
+        <li>Geospatial queries for nearby provider search</li>
+        <li>Category and service management system</li>
+        <li>Provider registration with bank info handling</li>
+        <li>Admin panel with seeding scripts</li>
+        <li>Image upload and OCR processing (Tesseract.js)</li>
+        <li>Middleware-based authentication and validation</li>
+        <li>Clean MVC architecture</li>
+        <li>Production deployment on Render</li>
+      </ul>
       <b>Links</b>:
       <a href="https://github.com/rahmanalif/Lavellh">GitHub</a>
       |
-      <a href="https://your-lavellh-vercel-link.vercel.app">Vercel</a>
+      <a href="https://lavellh-backend.onrender.com">Backend API</a>
     </td>
     <td>
       <img
@@ -142,23 +183,30 @@ Welcome to my GitHub! I'm a passionate **indie game developer** and **software d
   </tr>
 </table>
 
-#### Petcare
-
+#### Wuffoos (Petcare) - Pet Services Platform
 <table>
   <tr>
     <td>
       <b>Description</b>:
-      A service-based platform connecting pet owners with essential pet care providers
-      through a structured and user-friendly system.
-      <br /><br />
-      <b>Highlights</b>:
-      Authentication flow, organized data models, responsive interface design, service
-      listing system, and scalable backend foundation.
-      <br /><br />
+      A full-stack pet care platform called "Wuffoos" connecting pet owners with professional pet care service providers through an intuitive, modern interface.
+      <br><br>
+      <b>Tech Stack</b>: Next.js, React, Node.js, Express, MongoDB, JavaScript, Zustand
+      <br><br>
+      <b>Key Features</b>:
+      <ul>
+        <li>Next.js App Router architecture</li>
+        <li>User authentication with role management</li>
+        <li>Service provider listing and profiles</li>
+        <li>Pet service search and discovery</li>
+        <li>Booking and appointment management</li>
+        <li>Zustand for client-side state management</li>
+        <li>Responsive UI with modern design patterns</li>
+        <li>Component-based architecture</li>
+      </ul>
       <b>Links</b>:
       <a href="https://github.com/rahmanalif/Petcare">GitHub</a>
       |
-      <a href="https://petcare-front-main.vercel.app/">Vercel</a>
+      <a href="https://petcare-rosy.vercel.app/">Live Demo</a>
     </td>
     <td>
       <img
@@ -171,40 +219,44 @@ Welcome to my GitHub! I'm a passionate **indie game developer** and **software d
 
 ---
 
-### 💼 What I Do
-- **Game Development**: Specializing in both 2D and 3D game design using Unity and C#. I enjoy developing addictive and fast-paced games with features like procedural generation, progressive difficulty, and smooth player mechanics.
-- **Software Development**: Skilled in **C#** and **Flutter**. Recently, I have been exploring AI and machine learning for potential integrations in future projects.
-- **Flutter Applications**: From e-commerce platforms to utility-based applications, I focus on creating user-centric mobile apps.
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahmanalif&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahmanalif&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
 ---
 
-### 📈 Key Skills
-- **Unity** (2D & 3D Game Design, Procedural Generation, Pathfinding)
-- **C#** (for game logic and backend systems)
-- **Flutter** (for Android app development)
-- **Git** (version control and collaboration)
-- **UI/UX** (designing intuitive interfaces and experiences)
+## 📫 Let's Connect!
+
+- 💼 **[LinkedIn](https://www.linkedin.com/in/mahmudur-rahman-alif/)**
+- 🐦 **[Twitter/X](https://x.com/m_rahmanalif)**
+- 📧 **Email**: [Your Email Here]
+- 💬 **Open to**: Freelance projects, full-time opportunities, and collaborations
 
 ---
 
-### 🛠️ Technologies & Tools
-- **Unity & C#**
-- **Flutter & Dart**
-- **Git/GitHub** (version control)
-- **VS Code**
-- **Adobe Photoshop** (for game art and UI elements)
-- **Google Play Console** (game publishing & management)
+## 🎯 What I'm Working On
+
+- 🎮 Developing mobile games with Unity focusing on engaging gameplay mechanics
+- 🌐 Building scalable full-stack web applications with modern JavaScript frameworks
+- 📚 Learning advanced game AI patterns and multiplayer systems
+- 🔧 Exploring new web technologies and optimization techniques
 
 ---
 
-Feel free to check out my repositories, try out my projects, and connect with me!
-
---- 
-
-#### 📫 Let's Connect!
-- **[LinkedIn](https://www.linkedin.com/in/mahmudur-rahman-alif/)**
-- **[Twitter](https://x.com/m_rahmanalif)**
+⭐️ **Fun Fact**: I'm equally comfortable debugging Unity physics as I am optimizing MongoDB queries!
 
 ---
 
-Thank you for visiting! 😊
+*Feel free to explore my repositories, try out my projects, and reach out for collaborations!*
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahmanalif&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
