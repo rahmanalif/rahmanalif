@@ -156,9 +156,9 @@ Welcome to my GitHub! I'm a **full-stack software developer** specializing in bu
     </td>
     <td>
       <img
-        src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXZ4OHZyNjh5OWh2emc2dXh5eHp3Yzhoczc1ODZwNTMwMmQ1ODlpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QAVWNKsY78RrnzJAt4/giphy.gif"
-        width="300"
-      />
+          src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHNwMm5ycjVvZW5ldTRyc25hOGh4cHVodzYzeTR1NWQ3eHpqN3g5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A176YeliRl96I5dEDu/giphy.gif"
+          width="300"
+        />
     </td>
   </tr>
 </table>
@@ -226,7 +226,7 @@ Welcome to my GitHub! I'm a **full-stack software developer** specializing in bu
     </td>
     <td>
       <img
-        src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3BwNzRibjR0MGMzbndhaWhzcG1wZTMzeDhjdmhicHA1cGZibXk0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wGWFVvwJybDwTlnTSS/giphy.gif"
+        src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnFkMGNhc3BncmhyeHUwc3R6dGFveGZkMjdwamJwc3FkNWg0Ym5rMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BSgzXuNKW8LrrmcFKT/giphy.gif"
         width="300"
       />
     </td>
