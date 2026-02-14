@@ -1,10 +1,11 @@
 # Hi there, I'm Mahmudur Rahman 👋
 
-Welcome to my GitHub! I'm a passionate **indie game developer** and **full-stack software developer** specializing in creating engaging games and scalable web applications. With expertise in Unity game development and modern web technologies, I bring creative ideas to life through clean code and thoughtful design.
+Welcome to my GitHub! I'm a **full-stack software developer** specializing in building scalable web applications with modern JavaScript technologies. I create robust backend APIs and intuitive frontend experiences using React, Node.js, Express, and MongoDB. In my spare time, I explore game development with Unity as a creative outlet.
 
 🎯 **Currently**: Open to freelance opportunities, full-time positions, and always learning new technologies  
-💼 **Looking for**: Game development roles, full-stack positions, and exciting collaborations  
-📧 **Contact**: [Your Email] | Available for remote and contract work
+💼 **Looking for**: Full-stack developer roles, backend positions, and exciting web projects  
+🎮 **Side Passion**: Building mobile games with Unity as a hobby  
+📧 **Contact**: rahman.alif.007@gmail.com | Available for remote and contract work
 
 ---
 
