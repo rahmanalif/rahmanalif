@@ -156,7 +156,7 @@ Welcome to my GitHub! I'm a **full-stack software developer** specializing in bu
     </td>
     <td>
       <img
-        src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZ0NnV5dTN3cnZoazE0enJjYzBnYXhoemNpcWh3M2w1OTFiZWdkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WD01fV9KSg4Vw3DYWc/giphy.gif"
+        src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXZ4OHZyNjh5OWh2emc2dXh5eHp3Yzhoczc1ODZwNTMwMmQ1ODlpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QAVWNKsY78RrnzJAt4/giphy.gif"
         width="300"
       />
     </td>
